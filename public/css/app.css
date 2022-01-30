@@ -447,14 +447,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 .flex {
   display: flex;
 }
+.w-8\/12 {
+  width: 66.666667%;
+}
 .w-4\/12 {
   width: 33.333333%;
 }
 .w-full {
   width: 100%;
-}
-.w-8\/12 {
-  width: 66.666667%;
 }
 .items-center {
   align-items: center;
